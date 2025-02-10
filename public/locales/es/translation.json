@@ -1,0 +1,27 @@
+{
+  "league_title": "Liga de Fútbol Colombiana",
+  "add_team": "Agregar Equipo",
+  "add_player": "Agregar Jugador",
+  "search": "Buscar",
+  "players": "Jugadores",
+  "teams": "Equipos",
+  "add_team_pc": "Añade un Equipo",
+  "select_position": "Selecciona una Posición",
+  "goalkepeer": "Arquero",
+  "defender": "Defensa",
+  "midfielder": "Centrocampista",
+  "striker": "Delantero",
+  "name_player": "Nombre del Jugador",
+  "age_player": "Edad",
+  "select_team": "Seleccionar un Equipo",
+  "photo": "Foto",
+  "name": "Nombre",
+  "age": "Edad",
+  "position": "Posición",
+  "team": "Equipo",
+  "search_player": "Buscar un jugador",
+  "ligue_team": "Liga de Fútbol Colombiana",
+  "icon": "../assets/images/colombia.png"
+}
+
+
